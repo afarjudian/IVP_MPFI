@@ -3,8 +3,8 @@ Sound and complete interval method for solving initial value problems.
 
 The code is an implementation of the method presented in the paper:
 
-- Edalat, A., Farjudian, A., and Li, Y. "Recursive Solution of Initial Value Problems with Temporal Discretization." 2023. arXiv: 2301.03920 [math.NA]
-  - https://arxiv.org/abs/2301.03920
+- Edalat, A., Farjudian, A., and Li, Y. “Recursive Solution of Initial Value Problems with Temporal Discretization”. In: Theoretical Computer Science (2023)
+  - https://doi.org/10.1016/j.tcs.2023.114221
 
 and it may not make much sense without reading the above article first.
 
