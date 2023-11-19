@@ -1,5 +1,5 @@
 # IVP_MPFI
-Sound and complete interval method for solving initial value problems.
+Sound and complete interval method for solving ordinary differential equation (ODE) initial value problems (IVPs).
 
 The code is an implementation of the method presented in the paper:
 
